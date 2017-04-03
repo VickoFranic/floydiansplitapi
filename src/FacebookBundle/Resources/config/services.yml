@@ -1,0 +1,3 @@
+services:
+    facebook.service.events:
+        class: FacebookBundle\Services\EventsService
